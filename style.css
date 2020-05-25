@@ -1,0 +1,26 @@
+ .field
+{
+    height: 12px;
+    border: 0px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    color: grey;
+    font-weight: 500;
+    font-size: 20px;
+    height: 20px;
+}
+        
+.field:active
+{
+    border: solid green 1px;
+}
+
+.container {
+    text-align: center;
+    background-color: hsl(150, 35%, 90%);
+    padding: 20px 20px;
+    margin: 20px 5%;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
